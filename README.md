@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shihab Uddin Khan</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <img align="right" alt="Rafio is Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabrafio&label=Profile%20views&color=0e75b6&style=flat" alt="shihabrafio" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=shihabrafio&label=Profile%20views&color=0e75b6&style=flat" alt="shihabrafio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihabrafio" alt="shihabrafio" /></a> </p>
 
