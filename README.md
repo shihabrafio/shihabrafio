@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihabrafio&show_icons=true&locale=en" alt="shihabrafio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabrafio&" alt="shihabrafio" /></p>
+
+# Thank You 👋 <div align='center'>  <img src='https://github.com/Yordinia/yordinia/blob/main/Module-2/img/Rabbit.png' style='width:10vw'> </div>  <div align='right'>  Farewell! </div>
+ 
+# <span> <i> 💡 Reminder </i> <h2> 📌 You may Check out my pinned projects below </h2>  </span> 
