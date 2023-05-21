@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shihab Uddin Khan</h1>
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Mentor%20at%20Microverse;Software%20Engineer;Full-Stack%20Web%20Developer;BEng.%20Electrical%20Engineering&font=Fira%20Code&center=true&width=800&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
-<img align="center" alt="Rafio is Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="center" alt="Rafio is Coding" width="1000" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=shihabrafio&label=Profile%20views&color=0e75b6&style=flat" alt="shihabrafio" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihabrafio" alt="shihabrafio" /></a> </p>
